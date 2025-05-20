@@ -1,6 +1,7 @@
 ## 🌿 **EcoVision: Smart Waste Classification with Deep Learning** ♻️
 
 ![EcoVision Banner](https://img.shields.io/badge/Smart%20Waste%20Detection-Powered%20by%20PyTorch-ff69b4?style=for-the-badge)
+
 An innovative approach to sustainable living through machine learning-powered waste classification.
 
 ---
