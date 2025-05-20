@@ -75,8 +75,30 @@ Each folder represents a waste class containing relevant images for training and
 
 
 
-If you like this project, please ⭐ the repo and share it with others!
+## 🤝 How to Contribute
+
+I welcome contributions from the community! Whether you're interested in adding new features, improving existing ones, or fixing bugs, your help is appreciated. Here's how you can get started:
+
+1. **Fork the Repository**: Click the 'Fork' button to create your own copy of the repository.
+2. **Clone the Repository**: Clone your forked repository to your local machine.
+3. **Create a New Branch**: Create a new branch for your feature or bug fix.
+4. **Make Your Changes**: Implement your changes and improvements.
+5. **Commit and Push**: Commit your changes and push them to your forked repository.
+6. **Create a Pull Request**: Submit a pull request to the main repository for review.
 
 ---
 
-Would you like this README saved as a Markdown file or embedded in your GitHub repo?
+## 🐝 License
+
+This project is licensed under the MIT License. Feel free to use, modify, and distribute the code as per the license terms.
+
+---
+
+## 📞 Contact
+
+Have questions or suggestions? Feel free to reach out to us!
+
+- **Email**: [atimothy.dev@gmail.com]
+- **LinkedIn**: [[Let's Connect](https://www.linkedin.com/in/timothy-ade)]
+
+---
